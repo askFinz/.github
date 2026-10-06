@@ -39,5 +39,6 @@ The extension and desktop app start from **$8.19 a month** (about EUR 7), with n
 - LinkedIn: [linkedin.com/company/askfinz](https://www.linkedin.com/company/askfinz)
 - YouTube: [youtube.com/@askfinz](https://www.youtube.com/@askfinz)
 - X: [x.com/askFinz](https://x.com/askFinz)
+- Instagram: [instagram.com/askfinz](https://www.instagram.com/askfinz/)
 
 Built in Eindhoven, the Netherlands. Contact: hello@askfinz.com
